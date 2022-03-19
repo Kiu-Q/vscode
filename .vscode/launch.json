@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Launch Microsoft Edge and open the Edge DevTools",
+            "request": "launch",
+            "type": "vscode-edge-devtools.debug",
+            "url": "C:/Users/user/OneDrive - Ho Fung College (Sponsored by Sik Sik Yuen)/文件/code/github/vscode_surface/index.html" // Provide your project's url to finish configuring
+        }
+    ]
+}
