@@ -1,4 +1,5 @@
-from turtle import turtles as t
+import turtle
+t=turtle.Turtle()
 t.color ("red")
 t.begin_fill()
 t.pensize(3)
